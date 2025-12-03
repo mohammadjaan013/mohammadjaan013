@@ -15,7 +15,7 @@ currently mass-applying to jobs with an ai agent i built because applying manual
 
 **find me:**
 
-[portfolio]([https://mohammadjaan.com](https://mohammad-jaan.vercel.app/)) · [linkedin]([https://linkedin.com/in/mohammad-jaan](https://www.linkedin.com/in/mohammad-jaan/)) · [email](mailto:mulanimohammadjaan@gmail.com)
+[portfolio](https://mohammad-jaan.vercel.app/) · [linkedin](https://www.linkedin.com/in/mohammad-jaan/) · [email](mailto:mulanimohammadjaan@gmail.com)
 
 ---
 
