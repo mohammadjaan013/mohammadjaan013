@@ -1,6 +1,6 @@
-### Hello, I'm Mohammad Jaan
+### hello, i'm mohammad jaan
 
-cs grad from mumbai. i build things with ai and occasionally ship them.
+cs grad from navi mumbai. i build things with ai and occasionally ship them.
 
 currently mass-applying to jobs with an ai agent i built because applying manually is mass pain.
 
