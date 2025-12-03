@@ -5,9 +5,9 @@ cs grad from navi mumbai. i build things with ai and occasionally ship them.
 currently mass-applying to jobs with an ai agent i built because applying manually is mass pain.
 
 **recent stuff:**
-- autonomous job application system — scrapes 6+ platforms, writes cover letters, applies while i sleep
-- ai debate simulator — 5 philosophical personas arguing ethics with reinforcement learning
-- herbvision — plant id app with yolov8, 93% accuracy, runs on your phone
+- autonomous job application system - scrapes 6+ platforms, writes cover letters, applies while i sleep
+- ai debate simulator - 5 philosophical personas arguing ethics with reinforcement learning
+- herbvision - plant id app with yolov8, 93% accuracy, runs on your phone
 
 **i work with:**
 
@@ -15,7 +15,7 @@ currently mass-applying to jobs with an ai agent i built because applying manual
 
 **find me:**
 
-[portfolio](https://mohammadjaan.com) · [linkedin](https://linkedin.com/in/mohammad-jaan) · [email](mailto:mulanimohammadjaan@gmail.com)
+[portfolio]([https://mohammadjaan.com](https://mohammad-jaan.vercel.app/)) · [linkedin]([https://linkedin.com/in/mohammad-jaan](https://www.linkedin.com/in/mohammad-jaan/)) · [email](mailto:mulanimohammadjaan@gmail.com)
 
 ---
 
