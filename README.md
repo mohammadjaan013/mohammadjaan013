@@ -1,4 +1,4 @@
-### hey, i'm jaan
+### Hello, I'm Mohammad Jaan
 
 cs grad from mumbai. i build things with ai and occasionally ship them.
 
